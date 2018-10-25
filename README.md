@@ -1,4 +1,4 @@
 # hello-world
-Noob repository
+# Noob repository
 
-More silliness and nonsense to come.
+# More silliness and nonsense to come.
